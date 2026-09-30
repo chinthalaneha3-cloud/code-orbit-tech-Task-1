@@ -48,32 +48,3 @@ A clean, structured dataset ready for sales analysis and dashboard creation.
 
 Note:
 The dataset used in this project is a sample dataset created for internship demonstration purposes.
-README – Task 2: Sales Data Analysis with Pandas
-
-
-Task 2
-
-
-Project Title: Sales Data Analysis with Pandas
-Objective:
-Analyze a sales dataset using Python and Pandas to identify important sales metrics, product performance, and sales patterns.
-Tool Used:
-Python
-Pandas
-Analysis Performed:
-Calculated Total Sales.
-Calculated Average Order Value.
-Calculated Total Orders.
-Calculated Total Units Sold.
-Grouped sales by Product.
-Grouped sales by Category.
-Grouped sales by Region.
-Analyzed sales by Time Period/Month.
-Identified products with higher sales.
-Summarized the findings using tables.
-Formula Used:
-Total Sales = Quantity × Unit Price
-Output:
-The analysis provides a clear summary of sales performance by product, category, region, and time period.
-Conclusion:
-Pandas was used to clean, group, aggregate, and summarize the sales data, making it easier to understand sales performance and identify useful business insights.
